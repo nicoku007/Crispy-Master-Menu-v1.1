@@ -12,7 +12,7 @@ Master Levels Menu: The launcher has a menu for playing the Master Levels for Do
 
 Maximum Doom: The launcher has a session for Maximum Doom, the wads are separated into "maximum Doom 1" and "Maximum Doom 2" and are programmed to work only with their own  Iwad "DOOM.WAD" or "DOOM2.WAD".
 
-Multiplayer: The menu includes options for multiplayer, cooperative deathmatch, deathmatch 2.0, private server, setting your server name, UDP port, auto join, as well as using server  address.  The menu includes multiplayer options, cooperative deathmatch, deathmatch 2.0, private server, server name, UDP port, auto-join, and server address. Each menu session has multiplayer options that only work for that session to prevent errors.
+Multiplayer: The menu includes options for multiplayer, cooperative deathmatch, deathmatch 2.0, private server, setting your server name, UDP port, auto join, as well as using server  address. Each menu session has multiplayer options that only work for that session to prevent errors.
 
 Parameters: Each menu session has parameters to modify the game if you wish. These include: No monsters, Fast monsters, Respawn monsters, and Turbo.
 
