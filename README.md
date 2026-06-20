@@ -29,7 +29,7 @@ Master Server and Locar Search: the possibility of viewing the Chocolate Doom ma
 
  3: Put the maximum doom wads corresponding to DOOM 1 inside the folder called "maximum1" and the wads  corresponding to DOOM 2 inside "maximum2". The folders are included in the  zip file.
  
- 4: Put the iwads in the same directory: "DOOM.WAD, DOOM2.WAD, TNT.WAD, and PLUTONIA.WAD". This way you can select them from the menu without having to go into chocolate- doom.setup and if you have plutmidi.wad in the same directory, the menu will detect it automatically.
+ 4: Put the iwads in the same directory: "DOOM.WAD, DOOM2.WAD, TNT.WAD, and PLUTONIA.WAD". This way you can select them from the menu without having to go into crispy-doom.setup and if you have plutmidi.wad in the same directory, the menu will detect it automatically.
 
 Crispy-Master-Menu by Nicokugame007.
 
