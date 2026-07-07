@@ -1,4 +1,4 @@
-# Crispy-Master-Menu
+# Crispy-Master-Menu for Crispy Doom
 
 ![crispy v1.1 image 1.png](https://github.com/nicoku007/Crispy-Master-Menu-v1.1/blob/main/crispy%20v1.1%20image%201.png?raw=true )
 ![crispy v1.1 image 2.png](https://github.com/nicoku007/Crispy-Master-Menu-v1.1/blob/main/crispy%20v1.1%20image%202.png?raw=true )
